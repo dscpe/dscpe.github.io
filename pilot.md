@@ -57,7 +57,7 @@ Tuition costs for the Pilot cohort is covered by a gift from Elsevier.
 * Letter of support from institution/supervisor
 <br>
 
-#### [Apply Now](https://simmons.co1.qualtrics.com/jfe/form/form/SV_3QR4NW50GwvLO5M)
+#### [Apply Now](https://simmons.co1.qualtrics.com/jfe/form/SV_3QR4NW50GwvLO5M)
 
 Instructions:
   * Click 'Apply Now' to fill out the online application form and upload required materials
