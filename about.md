@@ -5,11 +5,11 @@ permalink: /about/
 redirect_from: /home/about/
 ---
 
-#### What is the DSPEP?
+#### What is the DSCPE?
 
-The Data Service Professional Education Program (DSPEP) fills a much-needed gap in professional development of practicing librarians. 
+The Data Service Continuing Professional Education (DSCPE) fills a much-needed gap in professional development of practicing librarians. 
 
-The objective of the program to train and develop a community of data service librarians. The curriculum is designed as an eight-week online intensive learning experience geared towards preparing working professionals to provide needed data services. The DSPEP course delivery will involve online live sessions, remote self-paced learning, guest speakers, and capstone site mentors.
+The objective of this professional education is to train and develop a community of data service librarians. The curriculum is designed as an eight-week online intensive learning experience geared towards preparing working professionals to provide needed data services. The DSCPE course delivery will involve online live sessions, remote self-paced learning, guest speakers, and capstone site mentors.
 
 <br>
 
@@ -19,9 +19,9 @@ Currently, research-intensive institutions are focusing on data reproducibility,
 
 <br>
 
-#### How is the DSPEP program structured?
+#### How is the DSCPE program structured?
 
-The DSPEP is composed of three components occuring over eight weeks:
+The DSCPE is composed of three components occuring over eight weeks:
 * Program Orientation + Collaboration and Leadership (online live session, 1.5 days)
 * Research Data Sharing and Management (remote self-paced learning, 20-25 hours)
 * Capstone (70 hours)
