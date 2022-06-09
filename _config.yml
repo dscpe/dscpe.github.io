@@ -1,1 +1,20 @@
+# Site settings
+title: Data Service Continuing Professional Education
+email: dscpe.info@gmail.com
+logo: 
+description: >
+ An eight week online intensive learning experience geared towards preparing working professionals to provide needed data services.
+url: "https://dspep.github.io/"
+
+# Social links
+github_username: dspep
+twitter_username: 
+facebook_username: 
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
+
+# plugins
+plugins:
+  - jekyll-redirect-from
