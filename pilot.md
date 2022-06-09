@@ -5,9 +5,9 @@ permalink: /pilot/
 redirect_from: /home/pilot/
 ---
 
-#### DSPEP Program Specifics
+#### DSCPE Specifics
 
-The DSPEP will begin its pilot program Fall 2022. The pilot will be held virtually beginning **October 1st through November 30th**.
+The DSCPE will begin its pilot program Fall 2022. The pilot will be held virtually beginning **October 1st through November 30th**.
 
 <br>
 
@@ -42,7 +42,7 @@ Tuition costs for the Pilot cohort is covered by a gift from Elsevier.
 
 #### Application
 
-##### Who is eligible to apply for the DSEEC?
+##### Who is eligible to apply for the DSCPE?
 
 * Must hold a MLIS or equivalent
 * Early to mid-career professional currently working in a library or information-centric institution
