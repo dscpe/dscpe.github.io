@@ -9,7 +9,7 @@ redirect_from: /home/about/
 
 The Data Service Continuing Professional Education (DSCPE) fills a much-needed gap in professional development of practicing librarians. 
 
-The objective of this professional education is to train and develop a community of data service librarians. The curriculum is designed as an eight-week online intensive learning experience geared towards preparing working professionals to provide needed data services. The DSCPE course delivery will involve online live sessions, remote self-paced learning, guest speakers, and capstone site mentors.
+The objective of this professional education is to train and develop a community of data service librarians. The curriculum is designed as an eight-week online intensive learning experience geared toward preparing working professionals to provide needed data services. The DSCPE course delivery will involve online live sessions, remote self-paced learning, guest speakers, and capstone site mentors.
 
 <br>
 
@@ -36,4 +36,4 @@ The DSCPE is composed of three components occuring over eight weeks:
 * Hold a MLIS or equivalent
 * Have an interest in data services
 
-Read the full application requirements <a href="https://dspep.github.io/pilot/" target="_blank">here</a>.
+Read the full application requirements <a href="https://dscpe.github.io/pilot/" target="_blank">here</a>.
