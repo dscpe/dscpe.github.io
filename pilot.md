@@ -60,5 +60,5 @@ Tuition costs for the Pilot cohort is covered by a gift from Elsevier.
 
 Instructions:
   * Click 'Apply Now' to fill out the online application form and upload required materials
-  * Application deadline is **JULY 30, 2022**
+  * Application deadline is **JULY 29, 2022**
   * Acceptance decision will be sent by **August 30, 2022**
