@@ -30,6 +30,10 @@ The DSCPE is composed of three components occuring over eight weeks:
 
 <br>
 
+#### What is the cost?
+
+The Fall 2022 cohort members' tutition is covered by a gift from Elsevier.
+
 #### Who should apply?
 
 * Early to mid-career professionals currently working in a library or information-centric institution
