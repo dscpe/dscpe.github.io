@@ -36,7 +36,7 @@ The DSCPE will begin its pilot program Fall 2022. The pilot will be held virtual
 
 #### Program Tuition
 
-Tuition costs for the Pilot cohort is covered by a gift from Elsevier.
+Tuition costs for the Fall 2022 cohort is covered by a gift from Elsevier.
 <br>
 
 #### Application
