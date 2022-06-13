@@ -5,7 +5,7 @@ permalink: /team/
 redirect_from: /home/team/
 ---
 
-#### DSCPE Community
+#### DSCPE Team
 
 <table>
   <tr><td rowspan="1" width="25%;float:left;margin:10px"><img src="/images/team_photos/elainem.png" alt="Elaine Martin Photo"></td>
