@@ -9,20 +9,19 @@ redirect_from: /home/pilot/
 
 The DSCPE will begin its pilot program Fall 2022. The pilot will be held virtually beginning **October 1st through November 30th**.
 
-<br>
 
 #### Program Schedule
 
 * Program Orientation + Collaboration and Leadership (online live session, 1.5 days)
   * Dates: TBA (early October)
-* Research Data Sharing and Management (Instructor-led remote learning of RDMLA content, 20-25 hours)
+* Research Data Sharing and Management (instructor-led remote learning of RDMLA content, 20-25 hours)
   * Dates: TBA
   * Learning modules hosted on Canvas Instructure
   * Live sessions with unit instructors
   * Weekly drop-in office hours
 * Capstone (70 hours)
   * Dates: TBA (early-to-mid November) 
-* Program Wrap-Up (Online lve session)
+* Program Wrap-Up (online lve session)
   * Date: TBA (late November)
 <br>
 
