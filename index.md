@@ -7,7 +7,7 @@ redirect_from: /home/
 
 The **Data Services Continuing Professional Education** (**DSCPE**) is an eight-week online intensive learning experience geared toward preparing early-to-mid career working librarian to provide needed data services.
 
-The curriculum consists of online live sessions, remote self-paced learning, and capstone with a partner site.
+The curriculum consists of live sessions, remote self-paced learning, and capstone with a partner site.
 
 **Applications will be accepted starting on June 27, 2022. <a href="https://simmons.co1.qualtrics.com/jfe/form/SV_3QR4NW50GwvLO5M" target="_blank">Apply</a> by July 29, 2022.**
 <br>
