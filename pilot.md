@@ -60,5 +60,5 @@ Tuition costs for the Fall 2022 cohort is covered by a gift from Elsevier.
 
 Instructions:
   * Click 'Apply Now' to fill out the online application form and upload required materials
-  * Application deadline is **July 29, 2022**
+  * Application deadline is ~~**July 29, 2022**~~ **EXTENDED TO FRIDAY, AUGUST 12, 2022**
   * Acceptance decision will be sent by **August 30, 2022**
