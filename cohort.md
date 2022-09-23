@@ -8,7 +8,6 @@ redirect_from: /home/cohort/
 #### DSCPE Fall 2022 Pilot Cohort 
 
 <table>
-  <div><td><tr>
   <tr><td rowspan="1" width="25%;float:left;margin:10px"><img src="/images/team_photos/?" alt="Cadence Atchinson Photo"></td>
     <td><div><b>Cadence Atchinson</b><br>Online Learning & Research Librarian<br>University of New England</div></td></tr>
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/?" alt="Jennifer Dinalo Photo"></td>
@@ -39,6 +38,5 @@ redirect_from: /home/cohort/
     <td><div><b>Shalini Ramachandran</b><br>Associate Librarian for STEM<br>Chapman University</div></td></tr>  
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/?" alt="Eric Toole Photo"></td>
     <td><div><b>Eric Toole</b><br>Reference Librarian<br>Springfield College</div></td></tr>
-</div></td></tr>
 </table>
 
