@@ -11,5 +11,5 @@ The curriculum consists of live sessions, remote self-paced learning, and capsto
 
 The application period for the Fall 2022 cohort is now closed.
 
-**The DSCPE Team is also seeking Capstone host sites! [Apply here](https://countway.info/capstone) to host a DSCPE student this fall.**
+Thank you to all our Capstone hosts and all those who applied for this pilot cohort.
 <br>
