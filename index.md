@@ -9,7 +9,9 @@ The **Data Services Continuing Professional Education** (**DSCPE**) is an eight-
 
 The curriculum consists of live sessions, remote self-paced learning, and capstone with a partner site.
 
+The Fall 2022 cohort tutition is covered by a gift from Elsevier.
+
 The application period for the Fall 2022 cohort is now closed.
 
-Thank you to all our Capstone hosts and all those who applied for this pilot cohort.
+Thank you to all our Capstone hosts and those who applied for this pilot cohort.
 <br>
