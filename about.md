@@ -21,10 +21,10 @@ Currently, research-intensive institutions are focusing on data reproducibility,
 
 #### How is the DSCPE program structured?
 
-The DSCPE is composed of three components occuring over eight weeks:
-* Program Orientation + Collaboration and Leadership (online live session, 1.5 days)
-* Research Data Sharing and Management (remote self-paced learning, 20-25 hours)
-* Capstone (70 hours)
+The DSCPE is composed of three components occuring over ten weeks:
+* Program Orientation + Collaboration and Leadership (online live sessions)
+* Research Data Sharing and Management (remote self-paced learning)
+* Capstone (50 hours)
   * Matched with data services librarians and/or data services team
   * Site orientation to identify learning components included in projects
 
@@ -32,12 +32,11 @@ The DSCPE is composed of three components occuring over eight weeks:
 
 #### What is the cost?
 
-The Fall 2022 cohort members' tutition is covered by a gift from Elsevier.
+The Fall 2023 cohort members' tutition is covered by a gift from Elsevier.
 
 #### Who should apply?
 
 * Early to mid-career professionals currently working in a library or information-centric institution
 * Hold a MLIS or equivalent
 * Have an interest in data services
-
-Read the full application requirements <a href="https://dscpe.github.io/pilot/" target="_blank">here</a>.
+* Live/work in the United States
