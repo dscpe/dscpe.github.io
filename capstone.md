@@ -5,7 +5,9 @@ permalink: /capstone/
 redirect_from: /home/capstone/
 ---
 
-#### If you are interested in hosting a DSCPE student capstone, please reach out to [Ashley Thomas](mailto:ashley_thomas@hms.harvard.edu) for more information.
+<b>If you are interested in hosting a DSCPE student capstone, please reach out to [Ashley Thomas](mailto:ashley_thomas@hms.harvard.edu) for more information.</b>
+
+----
 
 A special thank you to all of our Fall 2022 Capstone hosts!
 
