@@ -1,10 +1,3 @@
----
-layout: page
-title: Pilot Program
-permalink: /pilot/
-redirect_from: /home/pilot/
----
-
 #### DSCPE Specifics
 
 The DSCPE will begin its pilot program Fall 2022. The pilot will be held virtually beginning **October 1st through November 30th**.
