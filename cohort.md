@@ -8,8 +8,8 @@ redirect_from: /home/cohort/
 #### We will introduce our Fall 2023 cohort in September!
 
 ----
-
-<b>Fall 2022 Cohort (Pilot Cohort)</b>
+<br>
+Fall 2022 Cohort (Pilot Cohort):
   * Cadence Atchinson
   * Jennifer Dinalo
   * CJ Garcia
