@@ -8,7 +8,7 @@ redirect_from: /home/capstone/
 <b>If you are interested in hosting a DSCPE student capstone, please reach out to [Ashley Thomas](mailto:ashley_thomas@hms.harvard.edu) for more information.</b>
 
 ----
-
+<br>
 A special thank you to all of our Fall 2022 Capstone hosts!
 
  * The University of Alabama at Birmingham Libraries
