@@ -11,7 +11,7 @@ The curriculum consists of live sessions, remote self-paced learning, and capsto
 
 The incoming Fall 2023 cohort tutition will be covered by a gift from Elsevier.
 
-The application period for the Fall 2023 cohort will open in Summer 2023. Please check back here for updates or [email us](mailto:dscpe.info@gmail.com) with any questions.
+The application period for the Fall 2023 cohort will open on June 26, 2023. Please check back here for updates or [email us](mailto:dscpe.info@gmail.com) with any questions.
 
 Thank you for your interest and we look forward to seeing you in the fall.
 <br>
