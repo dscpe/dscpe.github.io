@@ -17,6 +17,7 @@ Thank you for your interest and we look forward to seeing you in the fall.
 
 ----
 
+<br>
 **Our cohort members are making a splash!**
 
 A huge congratulations to Fall 2022 cohort members Lucy Carr Jones and Sara Hoover for their recent poster presentations at the Medical Library Association Annual Meeting 2023 in Detroit! And double congrats to Lucy for being awarded 'Best Research Poster' at the conference!
