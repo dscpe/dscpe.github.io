@@ -11,7 +11,7 @@ The curriculum consists of live sessions, remote self-paced learning, and capsto
 
 The incoming Fall 2023 cohort tutition will be covered by a gift from Elsevier.
 
-The application period for the Fall 2023 cohort **IS OPEN!**. Acccess and submit your application through this <a href="https://hms.az1.qualtrics.com/jfe/form/SV_b7WEuXxzRCU4PgW" target="_blank">link</a>. 
+The application period for the Fall 2023 cohort **IS OPEN!** Acccess and submit your application through this <a href="https://hms.az1.qualtrics.com/jfe/form/SV_b7WEuXxzRCU4PgW" target="_blank">link</a>. 
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
 
