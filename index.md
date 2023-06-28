@@ -11,6 +11,8 @@ The curriculum consists of live sessions, remote self-paced learning, and capsto
 
 The incoming Fall 2023 cohort tutition will be covered by a gift from Elsevier.
 
+**The Fall 2023 session will begin on September 15 and conclude on December 1, 2023.** A finalized schedule will be available soon.
+
 The application period for the Fall 2023 cohort **IS OPEN!** Acccess and submit your application through this <a href="https://hms.az1.qualtrics.com/jfe/form/SV_b7WEuXxzRCU4PgW" target="_blank">link</a>. 
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
