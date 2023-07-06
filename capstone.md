@@ -5,7 +5,7 @@ permalink: /capstone/
 redirect_from: /home/capstone/
 ---
 
-<b>If you are interested in hosting a DSCPE student capstone, please reach out to [Ashley Thomas](mailto:ashley_thomas@hms.harvard.edu) for more information.</b>
+<b>If you are interested in hosting a DSCPE student capstone, please reach out to [Perry Weidling](mailto:perry_weidling@hms.harvard.edu) for more information.</b>
 
 ----
 <br>
