@@ -4,7 +4,6 @@ title: Cohort Members
 permalink: /cohort/
 redirect_from: /home/cohort/
 ---
-#### We will introduce our Fall 2024 cohort in September!
 
 ----
 
