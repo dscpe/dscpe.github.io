@@ -9,15 +9,14 @@ The **Data Services Continuing Professional Education** (**DSCPE**) is a ten-wee
 
 The curriculum consists of live sessions, remote self-paced learning, and capstone with a partner site.
 
-The incoming Fall 2023 cohort tutition will be covered by a gift from Elsevier.
 
-**The Fall 2023 session will begin on September 15 and conclude on December 1, 2023.** A finalized schedule will be available soon.
 
-The application period for the Fall 2023 cohort has closed. Thank you for all those who applied. Information for 2024 will be available early next year. 
+**We are pleased to announce that Elsevier will be sponsoring a cohort in Fall 2024.** 
+
+Check back here for more information to come. 
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
 
-Thank you for your interest and we look forward to seeing you in the fall.
 
 ----
 
