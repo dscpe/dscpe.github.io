@@ -32,7 +32,7 @@ The DSCPE is composed of three components occuring over ten weeks:
 
 #### What is the cost?
 
-The Fall 2023 cohort members' tutition is covered by a gift from Elsevier.
+Cohort members' tutition is covered by a gift from Elsevier.
 
 <br>
 
