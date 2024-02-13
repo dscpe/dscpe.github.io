@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 redirect_from: /home/events/
 ---
-#### Upcoming Events
+<h1>Upcoming Events</h1>
 Be sure to add us to your calendars and say hello!
 <br>
 <table>
@@ -18,11 +18,8 @@ Be sure to add us to your calendars and say hello!
     <td rowspan="1" width="30%"><div><b>Details to Come<br></b></div></td></tr>
 </table>
 <br>
-
-#### DSCPE Community Presentations
-The DSCPE Community has presented at the following conferences.
-<br>
-#### Team Presentations
+<h1>DSCPE Community Presentations</h1>
+<h3>DSCPE Team Presentations</h3>
 
   - ALISE 2023 Annual Conference (October 3, 2023) – Presentation
     - <a href="https://github.com/dscpe/dscpe.github.io/blob/main/images/presentations/2023/2023_ALISE_Juried_Paper_Presentation%20(1).pdf" target="_blank">Presentation Slides</a>
@@ -33,10 +30,9 @@ The DSCPE Community has presented at the following conferences.
   - iSchools iConference (March 27, 2023) – Workshop
     - <a href="https://github.com/dscpe/dscpe.github.io/blob/main/images/presentations/2023/2023%20iConference%20workshop_data%20competencies.pdf" target="_blank">Presentation Slides</a>
 
-<br>
 ___
 
-#### DSCPE Alumni Presentations
+<h3>DSCPE Alumni Presentations</h3>
 
 A huge congratulations to Fall 2022 cohort members Lucy Carr Jones and Sara Hoover for their recent poster presentations at the Medical Library Association Annual Meeting 2023 in Detroit! And double congrats to Lucy for being awarded 'Best Research Poster' at the conference!
 
