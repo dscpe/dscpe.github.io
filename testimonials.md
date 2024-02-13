@@ -6,7 +6,7 @@ redirect_from: /home/testimonials/
 ---
 <h1>What are people saying about DSCPE?</h1>
 <br>
-<h2>2023 Cohort Member Testimonials:</h2><br>
+<h3>2023 Cohort Member Testimonials:</h3><br>
 “The capstone was the most valuable piece for me. I also appreciated the opportunities to hear from my cohort members.”
 <br>
 <br>
@@ -16,7 +16,7 @@ redirect_from: /home/testimonials/
 “[I gained an] in depth DMP understanding, DMPTool administration, supporting researchers with DMPs and doing RDM trainings to various groups.”
 <br>
 <br>
-<h2>2023 Capstone Host Testimonials:</h2>
+<h3>2023 Capstone Host Testimonials:</h3>
 <br>
 
 “Overall great experience and I highly recommend this experience to others. I would certainly do it again!”
