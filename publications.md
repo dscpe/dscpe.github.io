@@ -18,4 +18,6 @@ Elsevier featured several DSCPE alumni on their Library Connect Blog. Read  abou
 <br>
 <br>
   *<a href="https://www.elsevier.com/connect/is-training-the-key-to-preparing-for-new-research-data-policies" target="_blank"><b>Is training the key to preparing for new research data policies?</b></a><br>
+
+<br>
   *<a href="https://www.elsevier.com/connect/librarians-share-their-top-tips-for-research-data-management" target="_blank"><b>Librarians share their top tips for research data management</b></a>
