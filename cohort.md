@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cohort Members
+title: Cohort
 permalink: /cohort/
 redirect_from: /home/cohort/
 ---
