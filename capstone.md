@@ -13,7 +13,7 @@ redirect_from: /home/capstone/
 **Fall 2023 Capstone hosts:**
 
  * The University of Alabama at Birmingham Libraries; Brown University Library; Auburn University RBD Library; Harvard Kennedy School; University of Maryland Health Sciences and Human Services Library; University of Michigan Taubman Health Sciences Library; Rensselaer Polytechnic Institute; Purdue University Libraries; NYU Libraries; University of Minnesota Libraries; UC Berkeley Library; University of South Carolina Library, UMass Chan Medical School, Lamar Soutter Library; USC Libraries; UVA Health Claude Moore Health Sciences Library
-</br>
+
 
 <br>
 
