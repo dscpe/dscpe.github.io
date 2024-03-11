@@ -16,6 +16,8 @@ redirect_from: /home/publications/
 <h3>DSCPE Alumni Features</h3>
 Elsevier featured several DSCPE alumni on their Library Connect Blog. Read  about their DSCPE Capstone projects and experiences in the posts below.
 <br>
+<br> *<a href="https://www.elsevier.com/connect/is-training-the-key-to-preparing-for-new-research-data-policies" target="_blank"><b>With the growth of research data management, how can you ensure your library is offering the right support?</b></a><br>
+
 <br>
   *<a href="https://www.elsevier.com/connect/is-training-the-key-to-preparing-for-new-research-data-policies" target="_blank"><b>Is training the key to preparing for new research data policies?</b></a><br>
 
