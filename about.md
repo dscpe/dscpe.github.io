@@ -9,7 +9,7 @@ redirect_from: /home/about/
 
 The Data Services Continuing Professional Education (DSCPE) fills a much-needed gap in professional development of practicing librarians. 
 
-The objective of this professional education is to train and develop a community of data services librarians. The curriculum is designed as an eight-week online intensive learning experience geared toward preparing working professionals to provide needed data services. The DSCPE course delivery will involve online live sessions, remote self-paced learning, guest speakers, and capstone site mentors.
+The objective of this professional education is to train and develop a community of data services librarians. The curriculum is designed as an ten-week online intensive learning experience geared toward preparing working professionals to provide needed data services. The DSCPE course delivery will involve online live sessions, remote self-paced learning, guest speakers, and capstone site mentors.
 
 The DSCPE program adopts a Competency-Based Education/Training (CBE/CBT) approach. This non-traditional approach to education meets learners where they are and allows them to advance at their own pace. CBE/CBT  promotes equity and empowers learners to master learning outcomes in a flexible environment. 
 <br>
