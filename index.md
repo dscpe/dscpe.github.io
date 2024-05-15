@@ -16,6 +16,9 @@ The curriculum consists of live sessions, remote self-paced learning, and capsto
 <br>
 Acccess and submit your application through this <a href="https://hms.az1.qualtrics.com/jfe/form/SV_4SH5Fut97Na1w8K" target="_blank">link</a>. 
 Please submit your application by **June 24**. 
+<br>
+
+We are pleased to announce that we are now able to accept students based in the US and Canada.
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
 
