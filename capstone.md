@@ -22,8 +22,8 @@ redirect_from: /home/capstone/
 </table>
 
 <table>
-  <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/cincinnati.png" alt=“Cincinnati Logo"></td>
-    <td rowspan="1" width="30%"><img src="/images/capstone_logos/nevada.png" alt=“University of Nevada Reno Logo"></td>
+  <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/cincinnati.png" alt="Cincinnati Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/nevada.png" alt="University of Nevada Reno Logo"></td>
     <td rowspan="1" width="30%"><img src="/images/capstone_logos/NYU_Libraries.png" alt="New York University Libraries Logo"></td></tr>
 </table>
 
@@ -36,12 +36,12 @@ redirect_from: /home/capstone/
 <table>
   <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/umass.png" alt="UMass Soutter Library Logo"></td>
     <td rowspan="1" width="30%"><img src="/images/capstone_logos/usc.png" alt="University of Southern California Logo"></td>
-    <td rowspan="1" width="30%"><img src="/images/capstone_logos/queens.png" alt=“Queens University Logo"></td></tr>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/queens.png" alt="Queens University Logo"></td></tr>
 </table>
 <table>
-  <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/tufts.png" alt=“Tufts University Logo"></td>
+  <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/tufts.png" alt="Tufts University Logo"></td>
     <td rowspan="1" width="30%"></td>
-    <td rowspan="1" width="30%"><img src="/images/capstone_logos/washu.png" alt=“Washington University in St Louis Logo></td></tr>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/washu.png" alt="Washington University in St Louis Logo"></td></tr>
 </table>
 ----
 <br>
