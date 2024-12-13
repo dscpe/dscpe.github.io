@@ -16,5 +16,5 @@ redirect_from: /home/team/
     <td><div><b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator<br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
 
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/samanthafriedman1.png" alt="Samantha Friedman Photo"></td>
-    <td><div><b>Samantha Friedman</b><br> Project Manager <br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
+    <td><div><b>Samantha Friedman</b><br> Project Coordinator <br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
  </table>
