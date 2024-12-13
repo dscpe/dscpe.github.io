@@ -10,8 +10,6 @@ The **Data Services Continuing Professional Education** (**DSCPE**) is a ten-wee
 The curriculum consists of live sessions, remote self-paced learning, and capstone with a partner site.
 
 
-<br>**The Fall 2024 session will begin on September 6 and conclude on November 22, 2024.** <br>
-
 
 We are pleased to announce that we are now able to accept students based in the US and Canada.
 
