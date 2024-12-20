@@ -5,7 +5,7 @@ permalink: /about/
 redirect_from: /home/about/
 ---
 
-<p align="left"><img src="/images/logos/DSCPElogo.png"></p>
+<p align="left"><img src="/images/logos/DSCPElogo1.png"></p>
 #### What is the DSCPE?
 
 The Data Services Continuing Professional Education (DSCPE) fills a much-needed gap in professional development of practicing librarians. 
