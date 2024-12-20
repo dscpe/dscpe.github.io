@@ -5,9 +5,9 @@ permalink: /about/
 redirect_from: /home/about/
 ---
 
-<p align="right"><img src="/images/logos/DSCPElogo1.png"></p>
-#### What is the DSCPE?
 
+
+#### <img src="/images/logos/DSCPElogo1.png">  What is the DSCPE? 
 The Data Services Continuing Professional Education (DSCPE) fills a much-needed gap in professional development of practicing librarians. 
 
 The objective of this professional education is to train and develop a community of data services librarians. The curriculum is designed as an ten-week online intensive learning experience geared toward preparing working professionals to provide needed data services. The DSCPE course delivery will involve online live sessions, remote self-paced learning, guest speakers, and capstone site mentors.
