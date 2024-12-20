@@ -1,9 +1,12 @@
+<p align="left"><img src="/images/logos/DSCPElogo.png" alt="DSCPE Logo"></p>
+<p<tr><td rowspan="1" width="25%;float:left;margin:10px"><img src="/images/DSCPElogo.png"alt="DSCPE Logo"></p>
 ---
 layout: page
 title: About
 permalink: /about/
 redirect_from: /home/about/
 ---
+
 
 #### What is the DSCPE?
 
