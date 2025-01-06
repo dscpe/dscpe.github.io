@@ -5,7 +5,7 @@ permalink: /contact/
 redirect_from: /home/contact/
 ---
 
-##### <img src="/images/logos/DSCPElogo2.png"> <b>If you are interested in the DSCPE or have any questions, please contact us! </b>
+### <img src="/images/logos/DSCPElogo2.png"> <b>If you are interested in the DSCPE or have any questions, please contact us! </b>
 
 Submit your comment either through the form below or email us at dscpe.info@gmail.com.
 
