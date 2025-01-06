@@ -5,7 +5,7 @@ permalink: /capstone/
 redirect_from: /home/capstone/
 ---
 
-<b>If you are interested in hosting a DSCPE student capstone, please reach out to [Samantha Friedman](mailto:samantha_friedman@hms.harvard.edu) for more information.</b>
+#### <img src="/images/logos/DSCPElogo2.png"> <b>If you are interested in hosting a DSCPE student capstone, please reach out to [Samantha Friedman](mailto:samantha_friedman@hms.harvard.edu) for more information.</b>
 
 <br>
 
