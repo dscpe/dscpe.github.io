@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <b> About</b>
+
 permalink: /about/
 redirect_from: /home/about/
 ---
