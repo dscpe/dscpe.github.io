@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 redirect_from: /home/events/
 ---
-<h1>Upcoming Events</h1>
+### <img src="/images/logos/DSCPElogo2.png"> <b>Upcoming Events</b>
 Be sure to add us to your calendars and say hello!
 <br>
 <table>
