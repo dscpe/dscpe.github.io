@@ -4,7 +4,7 @@ title: Testimonials
 permalink: /testimonials/
 redirect_from: /home/testimonials/
 ---
-<h1>What are people saying about DSCPE?</h1>
+##### <img src="/images/logos/DSCPElogo2.png"> <b>What are people saying about DSCPE?</b>
 
 <br>
 <b> <ins>2024 Cohort Member Testimonials: </ins> </b>
