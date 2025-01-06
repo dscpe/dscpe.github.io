@@ -5,7 +5,7 @@ permalink: /team/
 redirect_from: /home/team/
 ---
 
-#### DSCPE Team
+### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Team</b>
 
 <table>
   <tr><td rowspan="1" width="25%;float:left;margin:10px"><img src="/images/team_photos/elainem.png" alt="Elaine Martin Photo"></td>
