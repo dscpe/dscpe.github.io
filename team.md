@@ -9,9 +9,9 @@ redirect_from: /home/team/
 
 <table>
   <tr><td rowspan="1" width="25%;float:left;margin:10px"><img src="/images/team_photos/elainem.png" alt="Elaine Martin Photo"></td>
-    <td><div><b>Elaine Martin</b><br> RDMLA/DSPE Co-Leader | Director of Collaborative Initiatives<br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
+    <td><div><b>Elaine Martin</b><br> RDMLA/DSCPE Co-Leader | Director of Collaborative Initiatives<br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/rongt.png" alt="Rong Tang Photo"></td>
-    <td><div><b>Rong Tang</b><br> RDMLA/DSPE Co-Leader | Professor Emerita <br> School of Library and Information Science, Simmons University</div></td></tr>
+    <td><div><b>Rong Tang</b><br> RDMLA/DSCPE Co-Leader | Professor Emerita <br> School of Library and Information Science, Simmons University</div></td></tr>
    <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/shabnams.png" alt="Shabnam Shahvar Photo"></td>
     <td><div><b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator<br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
 
