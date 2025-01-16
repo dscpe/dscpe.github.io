@@ -38,7 +38,7 @@ Cohort members' tutition is covered by a gift from Elsevier.
 
 <br>
 
-#### Who should apply? (Applicant requirements)
+#### Who should apply?
 
 * Early to mid-career professionals currently working in a library or information-centric institution
 * Hold a MLIS or equivalent
