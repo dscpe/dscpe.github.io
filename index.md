@@ -13,9 +13,9 @@ The curriculum consists of live sessions, remote self-paced learning, and capsto
 
 We are pleased to announce that we are now able to accept students based in the US and Canada.
 
-<br>**Exciting News!**
+**Exciting News!**
 
-**Applications for 2025 will be opening in **mid-May**. Stay tuned for more details and be sure to mark your calendars!** </br>
+**Applications for 2025 will be opening in **mid-May**. Stay tuned for more details and be sure to mark your calendars!** 
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
 
