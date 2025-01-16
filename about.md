@@ -44,3 +44,15 @@ Cohort members' tutition is covered by a gift from Elsevier.
 * Hold a MLIS or equivalent
 * Have an interest in data services
 * Live/work in the United States
+
+<br>
+
+#### What documents are required? 
+
+* Resume/CV
+* Statement of Purpose (2 pages max.)
+* A copy of your unofficial transcript from the Master’s program
+* A letter of support from your employer
+
+
+
