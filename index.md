@@ -5,13 +5,13 @@ redirect_from: /home/
 
 <p align="center"><img src="/images/logos/dscpelogo_horizontal_small.png" alt="DSCPE Logo"></p>
 
-The **Data Services Continuing Professional Education** (**DSCPE**) is a ten-week online intensive learning experience geared toward preparing early-to-mid career working librarians to provide needed data services.
+The **Data Services Continuing Professional Education** (**DSCPE**) is a twelve-week online intensive program designed to equip early-to-mid-career librarians with the skills required to deliver essential data services.
 
-The curriculum consists of live sessions, remote self-paced learning, and capstone with a partner site.
+The curriculum includes live sessions, self-paced remote learning, and a capstone project in collaboration with a partner site.
 
 
 
-We are pleased to announce that we are now able to accept students based in the US and Canada.
+We are excited to announce that we can now accept students from both the United States and Canada.
 
 **Exciting News!**
 
