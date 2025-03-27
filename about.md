@@ -23,12 +23,13 @@ Currently, research-intensive institutions are focusing on data reproducibility,
 
 #### How is the DSCPE program structured?
 
-The DSCPE is composed of three components occuring over twelve weeks:
+The DSCPE is composed of three components occuring over twelve weeks: 
 * Program Orientation + Collaboration and Leadership (online live sessions)
 * Research Data Sharing and Management (remote self-paced learning)
 * Capstone (50 hours, virtual)
   * Matched with data services librarians and/or data services team
   * Site orientation to identify learning components included in projects
+* Estimated time spent on DSCPE is 8hrs/wk
 
 <br>
 
