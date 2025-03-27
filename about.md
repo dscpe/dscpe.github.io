@@ -53,7 +53,7 @@ Cohort members' tutition is covered by a gift from Elsevier.
 * Resume/CV
 * Statement of Purpose (2 pages max.)
 * A copy of your unofficial transcript from the Master’s program
-* A letter of support from your employer
+* A letter of support from your employer indicating their understanding of the program requirements and estimated time commitments, as well as their approval for you to dedicate time to DSCPE during your workweek
 
 
 
