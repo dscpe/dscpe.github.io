@@ -56,4 +56,4 @@ Cohort members' tutition is covered by a gift from Elsevier.
 * A letter of support from your employer indicating their understanding of the program requirements and estimated time commitments, as well as their approval for you to dedicate time to DSCPE during your workweek
 
 
-
+<h4><b>Frequently Asked Questions can be find <a href="https://https://docs.google.com/document/d/1kI1qOIvfUdQELXvpXl0NPu-1X7ePDrExkg5py6S6hPo/edit?usp=sharing" target="_blank">here</a></b></h4> 
