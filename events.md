@@ -24,8 +24,7 @@ redirect_from: /home/events/
     - <a href="https://www.ischools.org/iconference-agenda" target="_blank">Session Overview </a>
 
 ___    
-
- **2023 Events**
+**2023 Events**
 
   - ALISE 2023 Annual Conference (October 3, 2023) – Presentation
     - <a href="https://github.com/dscpe/dscpe.github.io/blob/main/images/presentations/2023/2023_ALISE_Juried_Paper_Presentation%20(1).pdf" target="_blank">Presentation Slides</a>
