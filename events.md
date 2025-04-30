@@ -4,22 +4,27 @@ title: Events
 permalink: /events/
 redirect_from: /home/events/
 ---
-### <img src="/images/logos/DSCPElogo2.png"> <b>Upcoming Events</b>
-Be sure to add us to your calendars and say hello!
+#### Recent Presentations
+
 <br>
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons/ischools.jpg" alt="iSchools Logo"></td>
-    <td rowspan="1" width="30%"><div><b>iConference - Changchun, China<br> April 24, 2024 | 10:30 a.m. to 12:00 p.m. CST </b></div></td>
-    <td rowspan="1" width="30%"><div><b>More Information:<br> <a href="https://www.ischools.org/iconference-agenda" target="_blank">Session Overview</a></b></div></td></tr>
-</table>
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons/MLA24.png" alt="MLA 24 Logo"></td>
-    <td rowspan="1" width="30%"><div><b>MLA Annual Conference - Portland<br> May 18-21, 2024</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Details to Come<br></b></div></td></tr>
-</table>
-<br>
-<h1>DSCPE Community Presentations</h1>
-<h3>DSCPE Team Presentations</h3>
+
+ **2024 Events**
+
+  - University of Hong Kong, China (July 9, 2024).
+    "Open Education and Competency-Based Training in Research Data Services: Lessons Learned." Invited talk to Faculty of Education. 
+    -  <a href="https://drive.google.com/file/d/1dap4u0oHch2zZi4hJ3s6dlKCjyAk6rrI/view?usp=sharing" target="_blank">Summary of the Talk </a>
+
+  - Symposium in Open Science and Data Curation, Taipei, Taiwan (May 28, 2024).
+    "Practical Implementation of Open Education and Competency-Based Training in Research Data Services: Lessons Learned from RDMLA and DSCPE." .
+    - <a href="https://www.lib.ntu.edu.tw/events/2024_RDMLA/" target="_blank">Summary of the Talk </a>
+
+  - MLA Annual Conference, Portland (May 18-21, 2024)
+ 
+  - iConference, Changchun, China (April 24, 2024)
+    - <a href="https://www.ischools.org/iconference-agenda" target="_blank">Session Overview </a>
+___    
+
+ **2023 Events**
 
   - ALISE 2023 Annual Conference (October 3, 2023) – Presentation
     - <a href="https://github.com/dscpe/dscpe.github.io/blob/main/images/presentations/2023/2023_ALISE_Juried_Paper_Presentation%20(1).pdf" target="_blank">Presentation Slides</a>
@@ -31,8 +36,7 @@ Be sure to add us to your calendars and say hello!
     - <a href="https://github.com/dscpe/dscpe.github.io/blob/main/images/presentations/2023/2023%20iConference%20workshop_data%20competencies.pdf" target="_blank">Presentation Slides</a>
 
 ___
-
-<h3>DSCPE Alumni Presentations</h3>
+**DSCPE Alumni Presentations**
 
 A huge congratulations to Fall 2022 cohort members Lucy Carr Jones and Sara Hoover for their recent poster presentations at the Medical Library Association Annual Meeting 2023 in Detroit! And double congrats to Lucy for being awarded 'Best Research Poster' at the conference!
 
