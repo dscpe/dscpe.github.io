@@ -22,6 +22,7 @@ redirect_from: /home/events/
  
   - iConference, Changchun, China (April 24, 2024)
     - <a href="https://www.ischools.org/iconference-agenda" target="_blank">Session Overview </a>
+
 ___    
 
  **2023 Events**
