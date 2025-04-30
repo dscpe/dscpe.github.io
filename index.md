@@ -10,9 +10,6 @@ The **Data Services Continuing Professional Education** (**DSCPE**) is a twelve-
 The curriculum includes live sessions, self-paced remote learning, and a capstone project in collaboration with a partner site.
 
 
-
-We are excited to announce that we can now accept students from both the United States and Canada.
-
 **Exciting News!**
 
 **Applications for 2025 will be opening in mid-May. Stay tuned for more details and be sure to mark your calendars!** 
