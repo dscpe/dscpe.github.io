@@ -12,6 +12,7 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 
 **Exciting News!**
 
+
 <a href="https://hms.az1.qualtrics.com/jfe/form/SV_bJgSZTeZGsFh53w" target="_blank"><b>**Click here to apply for DSCPE 2025**</b></a>
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
