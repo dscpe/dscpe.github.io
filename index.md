@@ -21,10 +21,7 @@ Have questions? [Email us](mailto:dscpe.info@gmail.com).
 
 <body>
     <div class="logo-container">
-        <a href="https://www.elsevier.com" target="_blank">
-         <p align="center"> <img src="images/logos/elsevier-logo1.png" alt="Elsevier Logo" width="75">
-        </a></p>
-    </div>
-</body>
-</html>
+        <a href="https://www.elsevier.com" target="_blank"></a>
+         <p align="center"> <img src="images/logos/elsevier-logo1.png" alt="Elsevier Logo" width="75"></p>
+  
 
