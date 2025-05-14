@@ -12,7 +12,7 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 
 **Exciting News!**
 
-**Applications for 2025 will be opening in mid-May. Stay tuned for more details and be sure to mark your calendars!** 
+<a href="https://hms.az1.qualtrics.com/jfe/form/SV_bJgSZTeZGsFh53w"><b>**Click here to apply for DSCPE 2025**</b></a>
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
 
