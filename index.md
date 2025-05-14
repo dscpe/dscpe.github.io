@@ -17,3 +17,13 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
 
 
+
+<body>
+    <div class="logo-container">
+        <a href="https://www.elsevier.com" target="_blank">
+         <p align="center"> <img src="images/logos/elsevier_logo.png" alt="Elsevier Logo" width="75">
+        </a></p>
+    </div>
+</body>
+</html>
+
