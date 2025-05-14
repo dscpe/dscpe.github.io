@@ -36,4 +36,5 @@ The University of Alabama at Birmingham Libraries; Brown University Library; Uni
     <div class="logo-container">
         <a href="https://www.elsevier.com" target="_blank">
          <p align="center"> <img src="images/logos/elsevier-logo1.png" alt="Elsevier Logo" width="75"></p></a>
+    </div></body>
          
