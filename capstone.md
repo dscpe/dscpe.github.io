@@ -31,10 +31,4 @@ The University of Alabama at Birmingham Libraries; Brown University Library; Aub
 
 The University of Alabama at Birmingham Libraries; Brown University Library; University of Florida George A. Smathers Libraries; Harvard Dataverse and Harvard Library; University of Maryland Health Sciences and Human Services Library; University of Michigan Taubman Health Sciences Library; National Library of Medicine; Northeastern University Library; NYU Health Sciences Library and the NLM National Center for Data Services; Oregon State University Libraries and Press; UPenn Libraries, Leon Levy Dental Medicine Library; Stanford Medicine Lane Medical Library; UMass Chan Medical School, Lamar Soutter Library; Utah State University Merrill-Cazier Library; UVA Health Claude Moore Health Sciences Library
 
-
-<body>
-    <div class="logo-container">
-        <a href="https://www.elsevier.com" target="_blank">
-         <p align="center"> <img src="images/logos/elsevier-logo1.png" alt="Elsevier Logo" width="75"></p></a>
-    </div></body>
          
