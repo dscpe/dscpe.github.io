@@ -31,10 +31,3 @@ Marianne Stowell Bracke, Deborah Yun Caldwell, Jentry Campbell, Eileen Chen, Hec
  
  Cadence Atchinson, Jennifer Dinalo, CJ Garcia, Sara Hoover, Anna Liss Jacobsen, Lucy Carr Jones, Alex Keimel, Rachel Kirk, Stephanie McFarland, Sarah Newell, Heather Owen, Janine Pino, Samantha Porter, Shalini Ramachandran, Eric Toole
 
-
-<body>
-    <div class="logo-container">
-        <a href="https://www.elsevier.com" target="_blank">
-         <p align="center"> <img src="images/logos/elsevier-logo1.png" alt="Elsevier Logo" width="75"></p></a>
-    </div></body>
-         
