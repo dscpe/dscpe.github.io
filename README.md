@@ -12,7 +12,5 @@ Welcome to the website for the Data Service Continuing Professional Education (D
     <a href="/publications.md">Publications</a>
     <a href="/testimonials.md">Testimonials</a>
     <a href="/contact.md">Contacts</a>
-
-    
   </nav>
 </header>
