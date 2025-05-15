@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testimonials
+title: Testimonial
 permalink: /testimonials/
 redirect_from: /home/testimonials/
 ---
