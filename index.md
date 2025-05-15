@@ -16,10 +16,3 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 <a href="https://hms.az1.qualtrics.com/jfe/form/SV_bJgSZTeZGsFh53w" target="_blank"><b>**Click here to apply for DSCPE 2025**</b></a>
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
-
-
-
-<body>
-    <div class="logo-container">
-        <a href="https://www.elsevier.com" target="_blank">
-         <p align="center"> <img src="/images/logos/elsevier-logo1.png" alt="Elsevier Logo" width="75"></p></a>
