@@ -57,8 +57,3 @@ Cohort members' tutition is covered by a gift from Elsevier.
 
 
 <h4><b>Frequently Asked Questions can be find <a href="https://docs.google.com/document/d/1kI1qOIvfUdQELXvpXl0NPu-1X7ePDrExkg5py6S6hPo/edit?usp=sharing" target="_blank">here</a></b></h4> 
-
-<body>
-    <div class="logo-container">
-        <a href="https://www.elsevier.com" target="_blank">
-         <p align="center"> <img src="/images/logos/elsevier-logo1.png" alt="Elsevier Logo" width="75"></p></a>
