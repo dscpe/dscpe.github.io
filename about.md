@@ -30,11 +30,13 @@ The DSCPE is composed of three components occuring over twelve weeks:
 * Online DSCPE Modules (self-paced on Canvas):
   * Research Data Sharing and Management Topics
   * AI Tools for Library Research
-    
+
+
 * Capstone Project: 50 hours, virtual
   * Matched with data services librarians and/or data services team
   * Site orientation to identify learning components included in projects
   * Virtual capstone presentation at the end of the program
+
 
 * Estimated time spent on DSCPE is 8 hrs/wk
 
