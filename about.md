@@ -24,6 +24,7 @@ Currently, research-intensive institutions are focusing on data reproducibility,
 #### How is the DSCPE program structured?
 
 The DSCPE is composed of three components occuring over twelve weeks: 
+
 * Live Sessions: Orientation, Check-ins, and Instructor Lectures/Panel Discussions (Weekly)
   
 * Online DSCPE Modules (self-paced on Canvas):
