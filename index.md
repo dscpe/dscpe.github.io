@@ -16,3 +16,6 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 <a href="https://hms.az1.qualtrics.com/jfe/form/SV_bJgSZTeZGsFh53w" target="_blank"><b>**Click here to apply for DSCPE 2025**</b></a>
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
+
+
+<h3><b><p align="center"> DSCPE is financially sponsored by <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-coursem" target="_blank">Elsevier</a></p>
