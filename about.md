@@ -45,7 +45,7 @@ The DSCPE is composed of three components occurring over twelve weeks
 
 #### What is the cost?
 
-Cohort members' tuition is funded through a generous gift from <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-course" target="_blank">Elsevier</a></p>
+Cohort members' tuition is funded through a generous gift from <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-course" target="_blank">Elsevier</a><
 
 <br>
 
