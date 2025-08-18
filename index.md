@@ -12,7 +12,8 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 
 **Exciting News!**
 
-**Applications for the Fall 2025 DSCPE Cohort are currently under review!**
+**Congratulations to the Fall 2025 DSCPE Cohort!** We are excited to welcome and celebrate the newest members of the Fall 2025 DSCPE cohort! Wishing each of you success, growth, and meaningful connections throughout the program. Welcome to the community!
+
 
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
 
