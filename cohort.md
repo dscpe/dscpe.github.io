@@ -4,12 +4,11 @@ title: Cohort
 permalink: /cohort/
 redirect_from: /home/cohort/
 ---
-
-
 ### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Cohort</b>
 
-#### DSCPE Fall 2024 Cohort 
+#### DSCPE Fall 2025 Cohort 
 <table>
+  
   <tr><td rowspan="1" width="25%;float:left;margin:100px"><img src="/images/cohort/2025cohort/AShlea.png" alt="Ashlea Green Photo"></td>
     <td><div><b>Ashlea Green</b> | Associate Professor and Metadata Librarian<br><em>Appalachian State University</em><br>Ashlea Green is an Associate Professor and Metadata Librarian at Appalachian State University. She holds an MS in Information Sciences from the University of Tennessee and an MA in Linguistics from Ohio University. In her current role, Ashlea advises faculty, staff, and students on metadata, digital repositories, persistent identifiers, and related data practices. Her work also involves managing metadata standards and application profiles, developing instructional resources, and collaborating with colleagues to ensure the seamless integration of metadata across digital platforms. Ashlea is committed to enhancing the support her library can offer researchers, especially as Appalachian State was recently elevated to R2 status. Although the library currently lacks a dedicated data services unit, she has seen a growing demand for support in data curation, management, and governance. Through the DSCPE program, Ashlea hopes to build the expertise needed to help fill this gap and strengthen Appalachian State’s expanding research infrastructure. She lives in Asheville, NC with her spouse, two cats, and two dogs, and is excited to join the Fall 2025 DSCPE cohort. She is grateful for this opportunity and looks forward to learning alongside colleagues from across the profession.</div></td></tr>
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/cohort/2025cohort/Brittney.png" alt="Brittney Thomas Photo"></td>
@@ -25,8 +24,6 @@ redirect_from: /home/cohort/
  </div></td></tr>
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/cohort/2025cohort/Jayden.png" alt="Jayden Matus Photo"></td>
     <td><div><b>Jayden Matus</b> | Assistant Librarian, Research & Scholarly Initiatives<br><em>Texas A&M University</em><br>Jayden Matus is a Librarian in the Research & Scholarly Initiatives department at Texas A&M University, where she helps students and faculty find, understand, and share information. From supporting evidence synthesis and research impact services to guiding researchers in selecting appropriate resources and outlets, Jayden is passionate about making knowledge accessible and easy to use. She earned an MS in Library Science and a certificate in Digital Curation and Data Management from the University of North Texas, and a BFA in Theatre from Texas State University. Before joining Texas A&M, she worked in various academic libraries, gaining experience in resource sharing, research support, distance education, and instruction. Jayden is dedicated to supporting researchers across disciplines by increasing their awareness and access to the information they need. In her work, she strives to foster connections, build understanding, and create a welcoming space for learning and discovery.
-
-
 </div></td></tr>
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/cohort/2025cohort/Jenna.png" alt="Jenna Courtade Photo"></td>
     <td><div><b>Jenna Courtade</b> | Research Data Management Librarian<br><em> University of Miami</em><br>Jenna Courtade is the Research Data Management Librarian under the Research Data & Open Scholarship department. Jenna oversees the development and delivery of research data management and data curation services including understanding discipline-specific patron needs, updates content on the departmental website, works within the University of Miami's institutional repository and research information hub, Scholarship@Miami, and supports broader unit goals of enhancing student outcomes and lowering barriers to entry in the research lifecycle. Additionally, she participates in unit goals of promoting data literacy to members of the campus community.  She received her Master’s in Library and Information Science from the iSchool at the University of Illinois Urbana-Champaign, and holds a B.A. in Liberal Arts from the New College of Florida. In her free time, Jenna loves fiber arts crafts, such as crocheting, knitting, or cross-stitching. She is currently exploring the connections between fiber arts and data in hopes to share her passion for creating as a lens to learn about managing research data. 
@@ -58,12 +55,8 @@ Matt earned his B.S. in Chemistry and Psychology from the University of Alabama 
    <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/cohort/2024/alicia.png" alt="Alicia Zuniga Photo"></td>
     <td><div><b>Alicia Zuniga</b> | Public Health and Science Librarian<br><em>California State University, Sacramento </em><br>Alicia Zuniga is the Public Health and Science Librarian at California State University, Sacramento where she supports students, faculty and staff in the public health, nutrition, physical therapy and health sciences departments. Her research interests include open science, specifically open data, open education and open access, as well as improving diversity, equity, inclusion and accessibility efforts in libraries. She is a former recipient and the current co-chair of the ALA Spectrum Scholarship, which recruits and provides scholarships to underrepresented groups in LIS. </div></td></tr>
 </table>
+
 ----
-
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/02ca05de-2ec2-4fa1-9846-1e0a79c44fce" />
-
-
-
 
 
 <br>
