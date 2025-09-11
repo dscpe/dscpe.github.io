@@ -7,6 +7,44 @@ redirect_from: /home/capstone/
 
 #### <img src="/images/logos/DSCPElogo2.png"> <b>If you are interested in hosting a DSCPE student capstone, please reach out to [Samantha Friedman](mailto:samantha_friedman@hms.harvard.edu) for more information.</b>
 
+#### A special thank you to all of our Fall 2025 Capstone hosts!
+ 
+<table>
+  <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/alabama.png" alt="UAB Libraries Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/brown.png" alt="Brown University Library Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/Cincinnati.png" alt="Univresity of Cincinnati Logo"></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/harvardkennedy.png" alt="Harvard Kennedy Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/maryland.png" alt="University of Maryland HSHS Library Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/michigan.png" alt="Michigan Taubman Library Logo"></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/ColbyCollege.png" alt="Colby College Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/purdue.png" alt="Purdue University Library Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/NYU_Libraries.png" alt="New York University Libraries Logo"></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/minnesota.png" alt="University of Minnesota Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/ucb_library.png" alt="UCB Library Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/uscarolina.png" alt="University of South Carolina Logo"></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="30%"><img src="/images/capstone_logos/umass.png" alt="UMass Soutter Library Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/usc.png" alt="University of Southern California Logo"></td>
+    <td rowspan="1" width="30%"><img src="/images/capstone_logos/virginia.png" alt="UVA Health Sciences Library Logo"></td></tr>
+</table>
+----
+
+
+
+
+
+
 <br>
 
 <b><ins>Fall 2024 Capstone Hosts </ins> </b><br>
