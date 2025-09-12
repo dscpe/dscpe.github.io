@@ -12,9 +12,9 @@ redirect_from: /home/capstone/
 <div align="center">
 <table>  
  <tr>
-  <td><img src="/images/capstone_logos/alabama.png" rowspan="1" width="150" height="250"></td>
-    <td><img src="/images/capstone_logos/maryland.png" rowspan="1" width="150" align="center" height="250"</td>
-    <td><img src="/images/capstone_logos/Cincinnati.png" rowspan="1" width="150"  height="250"</td>
+  <td><img src="/images/capstone_logos/alabama.png" rowspan="1" width="150" height="200"></td>
+    <td><img src="/images/capstone_logos/maryland.png" rowspan="1" width="150" align="center" height="200"></td>
+    <td><img src="/images/capstone_logos/Cincinnati.png" rowspan="1" width="150"  height="200"></td>
  </tr></div>
  </table>
 
