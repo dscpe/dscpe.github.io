@@ -9,39 +9,39 @@ redirect_from: /home/capstone/
 
 #### A special thank you to all of our Fall 2025 Capstone hosts!
  
-<div align="center">
+
 <table>  
  <tr>
-  <td><img src="/images/capstone_logos/alabama.png" rowspan="1" width="150" height="200"></td>
-    <td><img src="/images/capstone_logos/maryland.png" rowspan="1" width="150" align="center" height="200"></td>
-    <td><img src="/images/capstone_logos/Cincinnati.png" rowspan="1" width="150"  height="200"></td>
- </tr></div>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/alabama.png"</td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/Cincinnati.png"</td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/maryland.png"</td>
+ </tr>
  </table>
 
 <table>
   <tr>
-    <td> <img src="/images/capstone_logos/harvardkennedy.png" rowspan="1" width="150" height="250"></td>
-    <td> <img src="/images/capstone_logos/ColbyCollege.png" rowspan="1" width="150" height="250"></td>
-    <td> <img src="/images/capstone_logos/UMTaubman Health.png" rowspan="1" width="150" height="250"></td>
+
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/harvardkennedy.png"</td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/ColbyCollege.png"</td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/UMTaubman Health.png"</td>
    </tr>
    
 </table>
 
 <table>
   <tr>
-  <td> <img src="/images/capstone_logos/minnesota.png" rowspan="1" width="150" height="250"></td>
-  <td> <img src="/images/capstone_logos/ucb_library.png" rowspan="1" width="150" height="250"></td>
-  <td> <img src="/images/capstone_logos/uscarolina.png" rowspan="1" width="150" height="250"></td></tr>
+
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/minnesota.png"</td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/ucb_library.png"</td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/uscarolina.png"</td></tr>
  
 </table>
 
 <table>
 <tr>
-<td> <img src="/images/capstone_logos/umass.png" rowspan="1" width="150" height="250"></td>
-  <td> <img src="/images/capstone_logos/usc.png" rowspan="1" width="150" height="250"></td>
-  <td> <img src="/images/capstone_logos/virginia.png" rowspan="1" width="150" height="250"></td>
-</tr>
-
+ <td rowspan="1" width="30%"><img src="/images/capstone_logos/umass.png"</td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/usc.png"</td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/virginia.png"</td></tr>
 </table>
 
 ----
