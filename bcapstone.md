@@ -31,17 +31,24 @@ redirect_from: /home/capstone/
 <table>
   <tr>
 
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/minnesota.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/ucb_library.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/uscarolina.png"></td></tr>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/OregonState.png"></td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/UNevada.png"></td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/RDAP.png"></td></tr>
  
 </table>
 
 <table>
 <tr>
- <td rowspan="1" width="30%"><img src="/images/capstone_logos/umass.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/usc.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/virginia.png"></td></tr>
+ <td rowspan="1" width="30%"><img src="/images/capstone_logos/StonyBrook .png"></td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/Tulane.png"></td>
+  <td rowspan="1" width="30%"><img src="images/capstone_logos/TexasDataRepository.png"></td></tr>
+</table>
+
+<table>
+<tr>
+ <td rowspan="1" width="30%"><img src="/images/capstone_logos/uscarolina.png"></td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/uMsocial.png"></td>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/brown.png"></td></tr>
 </table>
 
 ----
