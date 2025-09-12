@@ -41,7 +41,7 @@ redirect_from: /home/capstone/
 <tr>
  <td rowspan="1" width="30%"><img src="/images/capstone_logos/StonyBrook .png"></td>
   <td rowspan="1" width="30%"><img src="/images/capstone_logos/Tulane.png"></td>
-  <td rowspan="1" width="30%"><img src="images/capstone_logos/TexasDataRepository.png"></td></tr>
+  <td rowspan="1" width="30%"><img src="/images/capstone_logos/TexasDataRepository.png"></td></tr>
 </table>
 
 <table>
