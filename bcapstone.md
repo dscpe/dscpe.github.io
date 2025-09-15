@@ -47,8 +47,10 @@ redirect_from: /home/capstone/
 <table>
 <tr>
  <td rowspan="1" width="30%"><img src="/images/capstone_logos/uscarolina.png"></td>
+   <td rowspan="1" width="30%"><img src="/images/capstone_logos/brown.png"> </td>
   <td rowspan="1" width="30%"><img src="/images/capstone_logos/uMsocial.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/brown.png"></td></tr>
+
+ </tr>
 </table>
 
 ----
