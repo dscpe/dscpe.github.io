@@ -14,7 +14,7 @@ redirect_from: /home/capstone/
  <tr>
   <td rowspan="1" width="30%"><img src="/images/capstone_logos/alabama.png"></td>
   <td rowspan="1" width="30%"><img src="/images/capstone_logos/Cincinnati.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/maryland.png"></td>
+  <td rowspan="1" width="30%"><img  src="/images/capstone_logos/maryland.png"></td>
  </tr>
  </table>
 
@@ -39,7 +39,7 @@ redirect_from: /home/capstone/
 
 <table>
 <tr>
- <td rowspan="1" width="30%"><img src="/images/capstone_logos/StonyBrook .png"></td>
+ <td rowspan="1" width="30%"><p align="center"><img src="/images/capstone_logos/StonyBrook .png"></td></p>
   <td rowspan="1" width="30%"><img src="/images/capstone_logos/Tulane.png"></td>
   <td rowspan="1" width="30%"><img src="/images/capstone_logos/TexasDataRepository.png"></td></tr>
 </table>
@@ -48,7 +48,7 @@ redirect_from: /home/capstone/
 <tr>
  <td rowspan="1" width="30%"><img src="/images/capstone_logos/uscarolina.png"></td>
    <td rowspan="1" width="30%"><img src="/images/capstone_logos/brown.png"> </td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/uMsocial.png"></td>
+  <td rowspan="1" width="30%"><p align="center"><img src="/images/capstone_logos/uMsocial.png"></td></tr></p>
 
  </tr>
 </table>
