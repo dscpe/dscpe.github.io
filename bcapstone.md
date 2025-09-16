@@ -35,7 +35,7 @@ redirect_from: /home/capstone/
 
 <table>
 <tr>
- <td rowspan="1" width="30%"><p align="center"><img src="/images/capstone_logos/StonyBrook .png"></td></p>
+ <td rowspan="1" width="30%"><img src="/images/capstone_logos/StonyBrook .png"></td>
   <td rowspan="1" width="30%"><img src="/images/capstone_logos/Tulane.png"></td>
   <td rowspan="1" width="30%"><img src="/images/capstone_logos/TexasDataRepository.png"></td></tr>
 </table>
@@ -43,7 +43,7 @@ redirect_from: /home/capstone/
 <table>
 <tr>
  <td rowspan="1" width="30%"><img src="/images/capstone_logos/uscarolina.png"></td>
- <td rowspan="1" width="30%"><p align="center"><img src="/images/capstone_logos/uMsocial.png">/td>
+ <td rowspan="1" width="30%"><p align="center"><img src="/images/capstone_logos/uMsocial.png">/td></p>
    <td rowspan="1" width="30%"><img src="/images/capstone_logos/brown.png"> </td></tr>
 </table>
 
@@ -52,7 +52,7 @@ redirect_from: /home/capstone/
 
 <br>
 
-<b><ins>Fall 2024 Capstone Hosts </ins> </b><br>
+<b><ins>Fall 2024 Capstone Hosts </ins> </b></br>
 
 The University of Alabama at Birmingham Libraries; Brown University Library; Auburn University, Harvard Kennedy School; University of Maryland Health Sciences and Human Services Library; University of Michigan Taubman Health Sciences Library; University of Cincinnati; University of Nevada, Reno; NYU Libraries; University of Minnesota Libraries; UC Berkeley Library; University of South Carolina Library, UMass Chan Medical School, Lamar Soutter Library; USC Libraries; Queen’s University; Tufts University; Washington University in St. Louis. 
 
