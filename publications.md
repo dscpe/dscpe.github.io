@@ -13,15 +13,14 @@ redirect_from: /home/publications/
 
 ---
 <br>
-<h3>DSCPE Alumni Features</h3>
-Elsevier featured several DSCPE alumni on their Library Connect Blog. Read  about their DSCPE Capstone projects and experiences in the posts below.
-<br>
-<br> *<a href="https://www.elsevier.com/connect/with-the-growth-of-research-data-management-how-can-you-ensure-your-library" target="_blank"><b>With the growth of research data management, how can you ensure your library is offering the right support?</b></a><br>
+<h3>DSCPE Alumni </h3>
 
-<br>
-  *<a href="https://www.elsevier.com/connect/is-training-the-key-to-preparing-for-new-research-data-policies" target="_blank"><b>Is training the key to preparing for new research data policies?</b></a><br>
+ - <b>Jenna Courtade a blog post about DSCPE capstone experience in RDAP News:</b> 
+<br> <a href="https://rdapassociation.org/news/13589587" target="_blank"><b> Data Management for RDAP: A DSCPE Capstone Project
 
-<br>
-  *<a href="https://www.elsevier.com/connect/librarians-share-their-top-tips-for-research-data-management" target="_blank"><b>Librarians share their top tips for research data management</b></a>
+ - Elsevier featured several DSCPE alumni on their Library Connect Blog. Read  about their DSCPE Capstone projects and experiences in the posts below:
+<br> <a href="https://www.elsevier.com/connect/with-the-growth-of-research-data-management-how-can-you-ensure-your-library" target="_blank"><b>With the growth of research data management, how can you ensure your library is offering the right support?</b></a>
+     <br><a href="https://www.elsevier.com/connect/is-training-the-key-to-preparing-for-new-research-data-policies" target="_blank"><b>Is training the key to preparing for new research data policies?</b></a>
+     <br><a href="https://www.elsevier.com/connect/librarians-share-their-top-tips-for-research-data-management" target="_blank"><b>Librarians share their top tips for research data management</b></a>
 
 
