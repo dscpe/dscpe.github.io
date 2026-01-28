@@ -7,49 +7,11 @@ redirect_from: /home/capstone/
 
 #### <img src="/images/logos/DSCPElogo2.png"> <b>If you are interested in hosting a DSCPE student capstone, please reach out to [Samantha Friedman](mailto:samantha_friedman@hms.harvard.edu) for more information.</b>
 
-#### A special thank you to all of our Fall 2025 Capstone hosts!
- 
+<br>
 
-<table>  
- <tr>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/alabama.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/Cincinnati.png"></td>
-  <td rowspan="1" width="30%"><img  src="/images/capstone_logos/maryland.png"></td>
- </tr>
- </table>
+<b><ins>Fall 2025 Capstone Hosts </ins> </b><br>
 
-<table>
-  <tr>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/harvardkennedy.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/ColbyCollege.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/UMTaubman Health.png"></td>
-   </tr> 
-</table>
-
-<table>
-  <tr>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/OregonState.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/UNevada.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/RDAP.png"></td>
-   </tr> 
-</table>
-
-<table>
-<tr>
- <td rowspan="1" width="30%"><img src="/images/capstone_logos/StonyBrook .png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/Tulane.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/TexasDataRepository.png"></td>
-     </tr>
-</table>
-
-
-<table>
-<tr>
- <td rowspan="1" width="30%"><img src="/images/capstone_logos/uscarolina.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/uMsocial.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/capstone_logos/brown.png"></td>
-     </tr>
-</table>
+The University of Alabama at Birmingham Libraries; Brown University Library; Harvard Kennedy School; University of Maryland Health Sciences and Human Services Library; University of Michigan Taubman Health Sciences Library; University of Cincinnati; University of Nevada, Reno; University of South Carolina Library; Colby College; OSU Press (Oregan State University); RDAP Association; Stoney Brook University; Tulane University Libraries; Texas Data Repository; University of Michigan, Institute for Social Research.
 
 
 ----
