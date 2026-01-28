@@ -10,11 +10,6 @@ The **Data Services Continuing Professional Education** (**DSCPE**) is a twelve-
 The curriculum includes live sessions, self-paced remote learning, and a capstone project in collaboration with a partner site.
 
 
-**Exciting News!**
-
-**Congratulations to the Fall 2025 DSCPE Cohort!** We are excited to welcome and celebrate the newest members of the DSCPE cohort! Wishing each of you success, growth, and meaningful connections throughout the program. Welcome to the community!
-
-
 Have questions? [Email us](mailto:dscpe.info@gmail.com).
 
 
