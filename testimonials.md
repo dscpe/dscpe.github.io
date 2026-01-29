@@ -6,6 +6,21 @@ redirect_from: /home/testimonials/
 ---
 ### <img src="/images/logos/DSCPElogo2.png"> <b>What are people saying about DSCPE?</b>
 
+
+<br> 
+<b> <ins>2025 Cohort Member Testimonials: </ins> </b>
+<br>
+<br>
+"This is an extremely well organized, thoughtful, and valuable program. I wouldn't change a thing."
+<br>
+<br>
+"The capstone was the most useful to me. It gave me opportunities to use what I learned in the asynchronous content, and to participate in several "on-site" activities with my host institution."
+<br>
+<br>
+"The capstone project was my favorite portion of the program. It allowed me to build a working relationship with my mentors. This relationship building, paired with the project itself helped me feel confident to ask my mentors RDM questions and taught me what questions I should ask (sometimes that is half the battle for me in this new position)."
+<br>
+
+----
 <br>
 <b> <ins>2024 Cohort Member Testimonials: </ins> </b>
 <br>
