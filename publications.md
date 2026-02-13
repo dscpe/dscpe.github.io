@@ -19,8 +19,11 @@ redirect_from: /home/publications/
 <br> *<a href="https://rdapassociation.org/news/13589587" target="_blank"> Data Management for RDAP: A DSCPE Capstone Project </a>
 
  - <b>Samantha Harmon; a commentary published in Journal of eScience Librarianship:</b>
- <br> *<a href="https://https://doi.org/10.7191/jeslib.1168" target="_blank"> Forging Resilience and Building Capacity: Professional Development in Early-Career Research Data Services</a>
+ <br> *<a href="https://doi.org/10.7191/jeslib.1168" target="_blank"> Forging Resilience and Building Capacity: Professional Development in Early-Career Research Data Services</a>
 
+- <b>Claire Warner; a paper published in Journal of eScience Librarianship:</b>
+ <br> *<a href="https://doi.org/10.7191/jeslib.1168](https://publishing.escholarship.umassmed.edu/jeslib/article/id/1159/)" target="_blank"> Building a lightweight dataset catalog in Digital Commons </a>
+ 
  - <b>Elsevier featured several DSCPE alumni on their Library Connect Blog. Read  about their DSCPE Capstone projects and experiences in the posts below:</b>
 <br> *<a href="https://www.elsevier.com/connect/with-the-growth-of-research-data-management-how-can-you-ensure-your-library" target="_blank">With the growth of research data management, how can you ensure your library is offering the right support?</a>
      <br>  *<a href="https://www.elsevier.com/connect/is-training-the-key-to-preparing-for-new-research-data-policies" target="_blank">Is training the key to preparing for new research data policies?</a>
