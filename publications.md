@@ -26,8 +26,8 @@ redirect_from: /home/publications/
  
  - <b>Elsevier featured several DSCPE alumni on their Library Connect Blog. Read  about their DSCPE Capstone projects and experiences in the posts below:</b>
 
-<br> *<a href="https://www.elsevier.com/connect/discover-rdmlas-new-short-course-practical-ai-skills-for-librarians" target="_blank"> Discover RDMLA’s new short course: Practical AI Skills for Librarians | February 26, 2026 </a>
-<br> *<a href="https://www.elsevier.com/connect/with-the-growth-of-research-data-management-how-can-you-ensure-your-library" target="_blank">With the growth of research data management, how can you ensure your library is offering the right support? | March 5, 2024 </a>
+     <br> *<a href="https://www.elsevier.com/connect/discover-rdmlas-new-short-course-practical-ai-skills-for-librarians" target="_blank"> Discover RDMLA’s new short course: Practical AI Skills for Librarians | February 26, 2026 </a>
+     <br> *<a href="https://www.elsevier.com/connect/with-the-growth-of-research-data-management-how-can-you-ensure-your-library" target="_blank">With the growth of research data management, how can you ensure your library is offering the right support? | March 5, 2024 </a>
      <br>  *<a href="https://www.elsevier.com/connect/is-training-the-key-to-preparing-for-new-research-data-policies" target="_blank">Is training the key to preparing for new research data policies? | March 30, 2023</a>
      <br>  *<a href="https://www.elsevier.com/connect/librarians-share-their-top-tips-for-research-data-management" target="_blank">Librarians share their top tips for research data management | March 30, 2023</a>
 
