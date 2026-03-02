@@ -52,7 +52,7 @@ redirect_from: /home/testimonials/
 ----
 
 <br>
-<b> <ins>2023 Capstone Host Testimonials: </ins></b>
+<b> <ins>2022 Capstone Host Testimonials: </ins></b>
 <br>
 <br>
  “Overall great experience and I highly recommend this experience to others. I would certainly do it again!”
