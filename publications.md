@@ -25,6 +25,9 @@ redirect_from: /home/publications/
  <br> *<a href="https://doi.org/10.7191/jeslib.1168](https://publishing.escholarship.umassmed.edu/jeslib/article/id/1159/)" target="_blank"> Building a lightweight dataset catalog in Digital Commons </a>
  
  - <b>Elsevier featured several DSCPE alumni on their Library Connect Blog. Read  about their DSCPE Capstone projects and experiences in the posts below:</b>
+
+<br> *<a href="https://www.elsevier.com/connect/discover-rdmlas-new-short-course-practical-ai-skills-for-librarians" target="_blank"> Discover RDMLA’s new short course: Practical AI Skills for Librarians </a>
+<br> *<a href="https://rdapassociation.org/news/13589587" target="_blank"> Data Management for RDAP: A DSCPE Capstone Project </a>
 <br> *<a href="https://www.elsevier.com/connect/with-the-growth-of-research-data-management-how-can-you-ensure-your-library" target="_blank">With the growth of research data management, how can you ensure your library is offering the right support?</a>
      <br>  *<a href="https://www.elsevier.com/connect/is-training-the-key-to-preparing-for-new-research-data-policies" target="_blank">Is training the key to preparing for new research data policies?</a>
      <br>  *<a href="https://www.elsevier.com/connect/librarians-share-their-top-tips-for-research-data-management" target="_blank">Librarians share their top tips for research data management</a>
