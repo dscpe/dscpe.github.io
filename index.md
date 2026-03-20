@@ -12,12 +12,11 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 <hr>
 
 
-#### We’re pleased to announce that the DSCPE 2026 application will open in May—please stay tuned for further updates.
+### We’re pleased to announce that the DSCPE 2026 application will open in May. Stay tuned for further updates.
 
 <hr>
 
 
-<h4><p align="center">Have questions? [Email us](mailto:dscpe.info@gmail.com)</p>
-
+<h4 align="center">Have questions? <a href="mailto:dscpe.info@gmail.com">Email us</a>.</h4>
 
 <h4><b><p align="center"> DSCPE is financially sponsored by <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-course" target="_blank">Elsevier</a></p>
