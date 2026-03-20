@@ -12,7 +12,7 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 <hr>
 
 
-<b> We’re pleased to announce that the DSCPE 2026 application will open in May. Stay tuned for further updates.</b>
+<b><p align="center">We’re pleased to announce that the DSCPE 2026 application will open in May. Stay tuned for further updates.</b>
 
 <hr>
 
