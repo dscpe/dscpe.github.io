@@ -9,11 +9,15 @@ The **Data Services Continuing Professional Education** (**DSCPE**) is a twelve-
 
 The curriculum includes live sessions, self-paced remote learning, and a capstone project in collaboration with a partner site.
 <br>
+<hr>
+
 
 #### We’re pleased to announce that the DSCPE 2026 application will open in May—please stay tuned for further updates.
 
 <hr>
-<h4><b><p align="center">Have questions? [Email us](mailto:dscpe.info@gmail.com).</p>
+
+
+<h4><p align="center">Have questions? [Email us](mailto:dscpe.info@gmail.com)</p>
 
 
 <h4><b><p align="center"> DSCPE is financially sponsored by <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-course" target="_blank">Elsevier</a></p>
