@@ -17,7 +17,10 @@ The application for the DSCPE Fall 2026 cohort is now live!
 <br>
   <br>
   
-We invite all interested candidates to apply and take the next step in advancing their data services expertise. You are welcome to submit your application here; <a href="https://hms.az1.qualtrics.com/jfe/form/SV_ePR9DgkZPfJsfVY" target="_blank">DSCPE 2026 Application </a>
+We invite all interested candidates to apply and take the next step in advancing their data services expertise. You are welcome to submit your application here: 
+<br>
+<br>
+<a href="https://hms.az1.qualtrics.com/jfe/form/SV_ePR9DgkZPfJsfVY" target="_blank">DSCPE 2026 Application </a>
 <br>
 <br>
 We look forward to receiving your applications!
