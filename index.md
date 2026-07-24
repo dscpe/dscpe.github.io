@@ -13,17 +13,14 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 
 
 <h4 align="center" style="font-weight: 600;">
-The application for the DSCPE Fall 2026 cohort is now live!
-<br>
   <br>
   
-We invite all interested candidates to apply and take the next step in advancing their data services expertise. You are welcome to submit your application here: 
+We are excited to announce that invitations to join the Fall 2026 Cohort are now being sent to selected applicants!
+<br>
+Congratulations to everyone receiving an invitation! We look forward to welcoming you aboard and embarking on this learning journey together. 
 <br>
 <br>
-<a href="https://hms.az1.qualtrics.com/jfe/form/SV_ePR9DgkZPfJsfVY" target="_blank">DSCPE 2026 Application </a>
-<br>
-<br>
-We look forward to receiving your applications!
+See you in the Fall 2026 Cohort!
 </h4>
 <hr>
 
