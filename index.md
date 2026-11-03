@@ -14,13 +14,7 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 
 <h4 align="center" style="font-weight: 600;">
   <br>
-  
-We are excited to announce that invitations to join the Fall 2026 Cohort are now being sent to selected applicants!
-<br>
-Congratulations to everyone receiving an invitation! We look forward to welcoming you aboard and embarking on this learning journey together. 
-<br>
-<br>
-See you in the Fall 2026 Cohort!
+Happy Fall 2026! 
 </h4>
 <hr>
 
