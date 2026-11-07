@@ -15,6 +15,9 @@ redirect_from: /home/publications/
 <br>
 <h3>DSCPE Alumni </h3>
 
+- <b>Susan Jenkins: Realizing the potential for research data management as a core library service</b>
+<br> *<a href="https://www.elsevier.com/connect/realizing-the-potential-for-research-data-management-as-a-core-library-service" target="_blank"> Meet the 2025 DSCPE cohort participants we interviewed </a>
+
  - <b>Jenna Courtade; a blog post about DSCPE capstone experience in RDAP News:</b> 
 <br> *<a href="https://rdapassociation.org/news/13589587" target="_blank"> Data Management for RDAP: A DSCPE Capstone Project </a>
 
