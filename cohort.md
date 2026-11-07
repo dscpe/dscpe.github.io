@@ -7,6 +7,15 @@ redirect_from: /home/cohort/
 ### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Cohort</b>
 
 <br>
+<b> <ins>Fall 2026 Cohort </ins> </b>
+
+
+Raymond Pun, Gina Genova, Lindsay Skay Whitacre, Molly Knapp, Alecia Barbour, Jeffrey M. Mortimore, Diana Hellyar, Dykee Gorrell, Kim McBride
+
+----
+
+
+<br>
 <b> <ins>Fall 2025 Cohort </ins> </b>
 
 
