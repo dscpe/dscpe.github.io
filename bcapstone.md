@@ -9,6 +9,13 @@ redirect_from: /home/capstone/
 
 <br>
 
+<b><ins>Fall 2026 Capstone Hosts </ins> </b><br>
+
+University of Cincinnati Libraries, University of Maryland, Brown University Libraries, University of Nevada Libraries, Colby College, University of Michigan Institute for Social Research, University of Alabama at Birmingham Libraries, Harvard Kennedy School, University of Michigan Taubman Health Sciences Library. 
+
+----
+<br>
+
 <b><ins>Fall 2025 Capstone Hosts </ins> </b><br>
 
 The University of Alabama at Birmingham Libraries; Brown University Library; Harvard Kennedy School; University of Maryland Health Sciences and Human Services Library; University of Michigan Taubman Health Sciences Library; University of Cincinnati; University of Nevada, Reno; University of South Carolina Library; Colby College; OSU Press (Oregan State University); RDAP Association; Stoney Brook University; Tulane University Libraries; Texas Data Repository; University of Michigan, Institute for Social Research.
