@@ -15,9 +15,6 @@ redirect_from: /home/publications/
 <br>
 <h3>DSCPE Alumni </h3>
 
-- <b>Susan Jenkins: Realizing the potential for research data management as a core library service</b>
-<br> *<a href="https://www.elsevier.com/connect/realizing-the-potential-for-research-data-management-as-a-core-library-service" target="_blank"> Meet the 2025 DSCPE cohort participants we interviewed </a>
-
  - <b>Jenna Courtade; a blog post about DSCPE capstone experience in RDAP News:</b> 
 <br> *<a href="https://rdapassociation.org/news/13589587" target="_blank"> Data Management for RDAP: A DSCPE Capstone Project </a>
 
@@ -28,9 +25,9 @@ redirect_from: /home/publications/
  <br> *<a href="https://doi.org/10.7191/jeslib.1168](https://publishing.escholarship.umassmed.edu/jeslib/article/id/1159/)" target="_blank"> Building a lightweight dataset catalog in Digital Commons </a>
  
  - <b>Elsevier featured several DSCPE alumni on their Library Connect Blog. Read  about their DSCPE Capstone projects and experiences in the posts below:
-
-   
-     <br> *<a href="https://www.elsevier.com/connect/with-the-growth-of-research-data-management-how-can-you-ensure-your-library" target="_blank">With the growth of research data management, how can you ensure your library is offering the right support? | March 5, 2024 </a>
+   </b>
+   <br> *<a href="https://www.elsevier.com/connect/realizing-the-potential-for-research-data-management-as-a-core-library-service" target="_blank"> Realizing the potential for research data management as a core library service: Meet the 2025 DSCPE cohort participants we interviewed | May 7, 2026 </a>
+   <br> *<a href="https://www.elsevier.com/connect/with-the-growth-of-research-data-management-how-can-you-ensure-your-library" target="_blank">With the growth of research data management, how can you ensure your library is offering the right support? | March 5, 2024 </a>
      <br>  *<a href="https://www.elsevier.com/connect/is-training-the-key-to-preparing-for-new-research-data-policies" target="_blank">Is training the key to preparing for new research data policies? | March 30, 2023</a>
      <br>  *<a href="https://www.elsevier.com/connect/librarians-share-their-top-tips-for-research-data-management" target="_blank">Librarians share their top tips for research data management | March 30, 2023</a>
 
