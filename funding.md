@@ -6,5 +6,5 @@ redirect_from: /home/funding/
 ---
 
 
-<p align="center"><img src="/images/logos/elsevier_logo.png" alt="Elsevier Logo" width="200"></p> 
-<h3><b><p align="center"> DSCPE and RDMLA are funded by <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-coursem" target="_blank">Elsevier</a></p>
+<p align="center"><img src="/images/logos/elsevier_logo.png" alt="Elsevier Logo" width="150"></p> 
+<h4><b><p align="center"> Our sincere thanks to Elsevier for generously sponsoring and supporting the DSCPE program from Fall 2018 through Fall 2026.</p>
