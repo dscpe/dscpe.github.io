@@ -18,6 +18,6 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 <hr>
 
 
-<h4><b><p align="center"> Our sincere thanks to Elsevier for generously sponsoring and supporting the DSCPE program from Fall 2018 through Fall 2026.</p>
+<p align="center"> Our sincere thanks to Elsevier for generously sponsoring and supporting the DSCPE program from Fall 2018 through Fall 2026.</p>
   
 <h4><p align="center">Have questions? <a href="mailto:dscpe.info@gmail.com">Email us</a>.
