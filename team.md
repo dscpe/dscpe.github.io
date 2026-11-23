@@ -5,7 +5,7 @@ permalink: /team/
 redirect_from: /home/team/
 ---
 
-### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Team</b>
+### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Team Leaders</b>
 
 <table>
   <tr><td rowspan="1" width="25%;float:left;margin:10px"><img src="/images/team_photos/elainem.png" alt="Elaine Martin Photo"></td>
@@ -16,7 +16,7 @@ redirect_from: /home/team/
  <br>
  <hr>
   
-### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Team</b>
+### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Past Team</b>
   <table>
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/shabnams.png" alt="Shabnam Shahvar Photo"></td>
     <td><div><b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator<br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
