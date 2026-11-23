@@ -14,8 +14,7 @@ The curriculum includes live sessions, self-paced remote learning, and a capston
 
 <h4 align="center" style="font-weight: 600;">
   <br>
-Happy Fall 2026! 
-</h4>
+<b></b>"At this point the DSCPE program has been discontinued due to funding so we will not be accepting applications for 2027."</b></h4>
 <hr>
 
 
