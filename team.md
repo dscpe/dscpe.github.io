@@ -12,10 +12,21 @@ redirect_from: /home/team/
     <td><div><b>Elaine Martin</b><br> RDMLA/DSCPE Co-Leader | Director of Collaborative Initiatives<br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/rongt.png" alt="Rong Tang Photo"></td>
     <td><div><b>Rong Tang</b><br> RDMLA/DSCPE Co-Leader | Professor Emerita <br> School of Library and Information Science, Simmons University</div></td></tr>
-   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/shabnams.png" alt="Shabnam Shahvar Photo"></td>
+</table>
+ <br>
+ <hr>
+  
+  ### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Past Team Members</b>
+  <table>
+  <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/shabnams.png" alt="Shabnam Shahvar Photo"></td>
     <td><div><b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator<br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
 
   <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/samanthafriedman1.png" alt="Samantha Friedman Photo"></td>
     <td><div><b>Samantha Friedman</b><br> Project Coordinator <br> Countway Library of Medicine, Harvard Medical School</div></td></tr>
+    
+ <tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/perryw.png" alt="Perry Weidling Photo"></td>
+    <td><div><b>Perry Weidling</b></div></td></tr>
+<tr><td rowspan="1" width="width:100px;float:left;margin:10px"><img src="/images/team_photos/ashleyt.png" alt="Ashley Thomas Photo"></td>
+    <td><div><b>Ashley Thomas</b></div></td></tr>   
  </table>
 
