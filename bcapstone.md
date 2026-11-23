@@ -5,7 +5,7 @@ permalink: /capstone/
 redirect_from: /home/capstone/
 ---
 
-#### Past Capstone Hosts
+### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Past Capstone Hosts</b>
 
 <br>
 
