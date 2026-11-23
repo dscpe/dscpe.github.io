@@ -4,7 +4,7 @@ title: Cohort
 permalink: /cohort/
 redirect_from: /home/cohort/
 ---
-### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Cohort</b>
+### <img src="/images/logos/DSCPElogo2.png"> <b>DSCPE Past Cohort</b>
 
 <br>
 <b> <ins>Fall 2026 Cohort </ins> </b>
